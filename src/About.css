@@ -1,0 +1,75 @@
+.about-heading {
+    /* background-color: purple; */
+    min-height: 200px;
+    background-color: #1abc9c;
+    min-height: 500px;
+    color: #fff;
+    text-align: center;
+    font-size: 53px;
+    font-weight: bolder;
+    padding-top: 36px;
+    margin-bottom: -2rem;
+    margin-top: 29px;
+  }
+  
+  .frame3 {
+    display: block;
+    margin-top: -24.5rem;
+    /* margin-right: -30px; */
+    /* margin-bottom: 10rem; */
+    margin-left: 513px;
+  }
+  
+  /* .row1 {
+    display: flex;
+  }
+  
+  .column1 {
+    flex: 50%;
+  }
+  
+  .column1 p {
+    color: #fff;
+    font-size: 23px;
+    margin-left: 189px;
+    margin-top: 14px;
+  } */
+  
+  /* Create two equal columns that floats next to each other */
+  .column-new {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .row-new:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .column-new p {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 12px;
+    margin-top: 40px;
+  }
+  
+  .buttonWalaScene {
+    margin-left: 21.5em;
+    /* margin-bottom: 91px; */
+    margin-top: -59px;
+    padding-bottom: -16px;
+    padding-top: -16px;
+    /* height: 31px; */
+    /* width: 12%; */
+    background-color: #1abc9c;
+    color: white;
+    font-size: 27px;
+    border: 2px solid #fff;
+    padding: -5px;
+  }
+  

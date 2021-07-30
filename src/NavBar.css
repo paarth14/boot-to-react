@@ -1,0 +1,49 @@
+.meraBg {
+    background-color: #2c3e50;
+  }
+  
+  .navbar-light .navbar-brand {
+    color: #f9fafb;
+  }
+  
+  .navbar-light .navbar-nav .nav-link.active,
+  .navbar-light .navbar-nav .show > .nav-link {
+    color: #f9fafb;
+  }
+  
+  .firstOne {
+    margin-left: 140px;
+    font-size: 26px;
+    font-weight: bolder;
+  }
+  
+  .secondOne {
+    margin-left: 613px;
+    font-weight: bolder;
+    font-size: 18px;
+  }
+
+  /* .secondOne:hover{
+    color: #1abc9c;
+  } */
+
+  .nav-item:hover{
+    background-color: 2px solid #1abc9c;
+    /* display: inline-block; */
+  }
+  
+  .thirdOne {
+    font-weight: bolder;
+    font-size: 18px;
+  }
+  
+  .fourthOne {
+    font-weight: bolder;
+    font-size: 18px;
+  }
+  
+  .heightWala {
+    height: 90px;
+    border-top: 3px solid red;
+  }
+  
