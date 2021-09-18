@@ -1,29 +1,24 @@
 .contact-heading {
-    background-color: #fff;
-    min-height: 600px;
-    background-color: #fff;
-    /* min-height: 650px; */
-    display: block;
-    margin-top: 65px;
-    margin-left: 34.5rem;
-    font-weight: bolder;
-    color: #2c3e50;
+  min-height: 600px;
+  background-color: #fff;
+  display: block;
+  margin-top: 65px;
+  margin-left: 40.5rem;
+  font-weight: bolder;
+  color: #2c3e50;
   }
   
   .contactFrame {
     margin-top: -66rem;
-    margin-left: 527px;
+    margin-left: 619px;
   }
   
   .form-container {
     width: 360px;
-    background-color: white;
-    margin: auto;
-    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%), 0 5px 5px 0 rgb(0 0 0 / 24%);
     padding: 10px;
-    margin-top: -29.5rem;
-    margin-left: 31.5rem;
-    /* border: 1px solid black; */
+    margin: -28.5rem auto auto 37.5rem;
   }
   
   .register-form {

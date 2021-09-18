@@ -15,9 +15,7 @@
   .frame3 {
     display: block;
     margin-top: -24.5rem;
-    /* margin-right: -30px; */
-    /* margin-bottom: 10rem; */
-    margin-left: 513px;
+    margin-left: 600px;
   }
   
   /* .row1 {
@@ -59,15 +57,10 @@
   }
   
   .buttonWalaScene {
-    margin-left: 21.5em;
-    /* margin-bottom: 91px; */
+    margin-left: 25em;
     margin-top: -59px;
-    padding-bottom: -16px;
-    padding-top: -16px;
-    /* height: 31px; */
-    /* width: 12%; */
     background-color: #1abc9c;
-    color: white;
+    color: #fff;
     font-size: 27px;
     border: 2px solid #fff;
     padding: -5px;

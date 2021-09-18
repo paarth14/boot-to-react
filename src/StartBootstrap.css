@@ -10,7 +10,7 @@
   }
   
   .avatarwalascene {
-    margin-left: -61px;
+    margin-left: 48px;
   }
   
   .heading-uppercase {
@@ -18,16 +18,14 @@
     line-height: 2.75rem;
     color: #f9fafb;
     font-weight: 700;
-    margin: auto;
     width: 100%;
-    margin-top: 40px;
-    margin-left: -173px;
+    margin: 41px auto auto -55px;
     letter-spacing: 2px;
   }
   
   .framewalascene {
     margin-top: 36px;
-    margin-left: -89px;
+    margin-left: 22px;
   }
   
   .home-title {
@@ -35,6 +33,6 @@
     color: #f9fafb;
     font-weight: 500;
     margin-top: 26px;
-    margin-left: -182px;
+    margin-left: -70px;
   }
   
